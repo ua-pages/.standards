@@ -28,3 +28,27 @@
 - Кожна залежність має виправдати своє існування.
 - Кожна абстракція має прибирати складність, а не додавати її.
 - Видаляй код щойно це можливо.
+
+## Core Principles (LLFF)
+
+- Local First
+- Lightweight First
+- Fast First
+- Focused First
+
+## Platform Philosophy
+
+- PWA by default.
+- Offline-first whenever feasible.
+- Installable on desktop and mobile.
+- Native Web Platform first.
+
+## Engineering Standards
+
+- Zero unnecessary dependencies.
+- Progressive Enhancement.
+- Semantic HTML.
+- Accessibility by default.
+- AI-friendly architecture.
+- Readability over cleverness.
+- Simplicity over abstraction.
